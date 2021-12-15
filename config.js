@@ -131,7 +131,7 @@ config.music_random_order = true
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-config.music_volume = 15
+config.music_volume = 10
 
 // Use Gmod volume for the music instead of manual volume
 config.music_gmod_volume = true
@@ -143,7 +143,7 @@ config.messages_enable = true
 // Enter your custom messages below
 config.messages_list = [
 	"Welcome to SpicyRP!",
-	"Customize your loading screen by editing the config file",
+	"Lots of drugs",
 	"Enjoy!",
 ]
 
