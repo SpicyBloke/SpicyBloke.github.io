@@ -1,7 +1,7 @@
 <?php 
 error_reporting(0); //Remove this if you do not seem to get your loading screen to work if you have tried other options
 
-$APIKey = "5AA4B488C58318DCCCF832C67A3962B0"; // Go get your API here: http://steamcommunity.com/dev/apikey
+$APIKey = "4ACDD866763A6E9714D8B4703ED0DF3F"; // Go get your API here: http://steamcommunity.com/dev/apikey
 
 include ('includes/errorcheck.php'); //To see whether or not you have the right extension in your URL
 
